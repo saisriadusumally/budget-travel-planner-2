@@ -1,0 +1,6 @@
+node_modules/
+dist/
+target/
+data/
+backend/src/main/resources/static/
+frontend/.env
